@@ -5,17 +5,17 @@
 </h2>
 
 <p align="center">
-    <b>I'm Shivang, a developer passionate about this amazing world of technology.</b>
+    <b>I'm Shivang, a Full Stack Developer who likes to dabble around with Data Science sometimes.</b>
 </p>
 
 <p align="center">
-    Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
+    Welcome to my GitHub, here you can find all the projects that I have worked on.
 </p>
 
 <br />
 
 <p align="center">
-    <i>You can find me or contact me through these networks:</i>
+    <i>Feel free to hit me up for discussing interesting ideas:</i>
     <br/><br/>
     <a href="https://www.instagram.com/shangkaul/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
     <a href="mailto:shangkaul@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ProtonMail Badge" />
     </a>
 <p/>
 
@@ -41,16 +41,11 @@
 
 <details>
     <summary>More about me</summary>
-    <p>
-        I'm a self-taught student, introverted and very observant. <br />
-        I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
-    </p>
     <ul>
-        <li>🎓 Technician in System Development by ETEC</li>
+        <li>🎓 Computer Science Grad</li>
         <li>🎯 Contribute and create open source projects</li>
-        <li>📚 I'm studying Python | Algorithms | Dev Web | English</li>
-        <li>💬 You can ask me questions, I like to help!</li>
-        <li>🌑 Observing space</li>
+        <li>📚 I'm always learning something new. Current hitlist : React | Scalable systems | Psychology </li>
+        <li>💬 You can reach out to me for a quick chat. Ask me about Angular, Ionic, Node.js</li>
     </ul>
 </details>
 
@@ -74,4 +69,4 @@
     </p>
 </details>
 
-<img src="./.github/assets/images/footer.gif" alt="animated matrix art for footer readme.md" />
+<img src="./.github/assets/images/footer.gif" alt="animated footer" />
