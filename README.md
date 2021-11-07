@@ -1,4 +1,4 @@
-<img src="./.github/assets/images/shangkaul_header.gif" alt="Animated header" />
+<img src="./.github/assets/images/header.gif" alt="Animated header" />
 
 <h2 align="center">
     Hi, Human 🖖
